@@ -80,7 +80,10 @@ Lightweight tool for extracting and processing numeric data from files.
   </a>
 
 
+### 🐍 GitHub Contributions Snake
 
+![Snake SVG](https://raw.githubusercontent.com/sk2185/sk2185/output/snake.svg)
+![Snake GIF](https://raw.githubusercontent.com/sk2185/sk2185/output/snake.gif)
 
 
 ---
