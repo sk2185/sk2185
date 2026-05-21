@@ -54,23 +54,23 @@ Lightweight tool for extracting and processing numeric data from files.
 
 <p align="center">
 
-  <a href="https://github.com/sk2185" target="_blank">
+  <a href="https://github.com/sk2185" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-   <a href="https://www.linkedin.com/in/senthilkumar2185" target="_blank">
+   <a href="https://www.linkedin.com/in/senthilkumar2185" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:sk2185@yahoo.com" target="_blank">
+  <a href="mailto:sk2185@yahoo.com" target="blank">
     <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
 
-  <a href="https://stackoverflow.com/users/1364056/senthilkumar2185" target="_blank">
+  <a href="https://stackoverflow.com/users/1364056/senthilkumar2185" target="blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 
-  <a href="https://learn.microsoft.com/en-us/answers/users/senthilkumar-5436" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/answers/users/senthilkumar-5436" target="blank">
     <img src="https://img.shields.io/badge/Microsoft%20Q%26A-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
 
