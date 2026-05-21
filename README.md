@@ -5,6 +5,11 @@
 
 <p align="center">
   I build automation tools that make enterprise workflows faster, smarter, and more reliable.
+  <div class="counter">
+  <img src="https://komarev.com/ghpvc/?username=sk2185&repo=sk2185&color=00ff66&style=flat-square">
+</div>
+
+</p>
 </p>
 
 ---
@@ -74,7 +79,8 @@ Lightweight tool for extracting and processing numeric data from files.
     <img src="https://img.shields.io/badge/Microsoft%20Q%26A-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
 
-</p>
+
+
 
 
 ---
