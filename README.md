@@ -53,7 +53,9 @@ Lightweight tool for extracting and processing numeric data from files.
 ## 🌐 Connect  
 - GitHub: **github.com/sk2185**  
 - LinkedIn: **https://www.linkedin.com/in/senthilkumar2185**
-- Email:  **sk2185@yahoo.com** 
+- Email:  **sk2185@yahoo.com**
+- Stackoverflow :  **https://stackoverflow.com/users/1364056/senthilkumar2185**
+- Microsoft Q&A :  **https://learn.microsoft.com/en-us/users/senthilkumar-5436**
 
 ---
 
