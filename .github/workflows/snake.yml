@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake (SVG + GIF)
 
 on:
   schedule:
@@ -8,13 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake (SVG + GIF)
+        uses: Platane/snk@v3
         with:
           github_user_name: sk2185
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif
 
-      - name: Push snake.svg to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
