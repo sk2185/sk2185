@@ -85,9 +85,9 @@ Lightweight tool for extracting and processing numeric data from files.
 ![Snake SVG](https://raw.githubusercontent.com/sk2185/sk2185/output/snake.svg)
 ![Snake GIF](https://raw.githubusercontent.com/sk2185/sk2185/output/snake.gif)
 
-<img src="https://img.shields.io/github/issues-pr/sk2185/sk2185?color=00ff66&label=Pull%20Requests&style=for-the-badge">
+[<img src="https://img.shields.io/github/issues-pr/sk2185/sk2185?color=00ff66&label=Pull%20Requests&style=for-the-badge">
 
-<img src="https://img.shields.io/github/commit-activity/m/sk2185/sk2185?color=00ff66&label=Push%20Activity&style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/m/sk2185/sk2185?color=00ff66&label=Push%20Activity&style=for-the-badge">](url)
 
 ---
 
