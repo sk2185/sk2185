@@ -90,7 +90,7 @@ Lightweight tool for extracting and processing numeric data from files.
 <img src="https://img.shields.io/github/commit-activity/m/sk2185/sk2185?color=00ff66&label=Push%20Activity&style=for-the-badge"> -->
 
 
-<a href="https://github.com/sk2185/senthil-resume/blob/main/resume.html" class="btn">My Resume</a>
+<a href="https://sk2185.github.io/senthil-resume/resume.html" class="btn">My Resume</a>
 
 ---
 
